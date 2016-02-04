@@ -64,7 +64,7 @@ public class ApplicantActivity  extends ListActivity {
                     .commit();
         }
     }
-    //example 3rd hour commit
+
 
     private void selectItem(int position) {
 

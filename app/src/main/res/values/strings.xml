@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CollegeApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dob_picker_title">Select Date of Birth</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="profile_title">Applicant\'s Profile</string>
+    <string name="family_members_title"/>
+    <string name="new_guardian">Add_Guardian</string>
+    <string name="new_sibling">Add_Sibling</string>
+    <string name="delete_family_member">Delete Family Member</string>
+    <item name="gpa" type="id"/>
+    <item name="enter_gpa" type="id"/>
+
+    <string name="hintTxtItem">Enter an item here ...</string>
+    <string name="lblBtnAdd">Add Item</string>
+    <string name="txtEmpty">List is empty</string>
+    <string name="lblBtnDel">Delete Selected Items</string>
+</resources>
